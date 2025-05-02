@@ -18,12 +18,12 @@
         {
             "id": "#bsky_notif",
             "type": "BskyNotificationService",
-            "serviceEndpoint": "https://127.0.0.1:61749"
+            "serviceEndpoint": "https://mac.cinnebar-tet.ts.net"
         },
         {
             "id": "#bsky_appview",
             "type": "BskyAppView",
-            "serviceEndpoint": "https://127.0.0.1:61749"
+            "serviceEndpoint": "https://mac.cinnebar-tet.ts.net"
         }
     ]
 }
