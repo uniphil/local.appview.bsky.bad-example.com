@@ -3,14 +3,14 @@
     [
         "https://www.w3.org/ns/did/v1"
     ],
-    "id": "did:web:local.appview.bsky.bad-example.com",
+    "id": "did:web:funnel.appview.bsky.bad-example.com",
     "verificationMethod":
     [
         {
-            "id": "did:web:local.appview.bsky.bad-example.com#atproto",
+            "id": "did:web:funnel.appview.bsky.bad-example.com#atproto",
             "type": "Multikey",
-            "controller": "did:web:local.appview.bsky.bad-example.com",
-            "publicKeyMultibase": "zQ3shpRzb2NDriwCSSsce6EqGxG23kVktHZc57C3NEcuNy1jg"
+            "controller": "did:web:funnel.appview.bsky.bad-example.com",
+            "publicKeyMultibase": "zQ3shpRzb2NDriwCSSsce6EqGxG23kVktHZc57C3NEcuNy1jh"
         }
     ],
     "service":
