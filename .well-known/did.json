@@ -18,12 +18,12 @@
         {
             "id": "#bsky_notif",
             "type": "BskyNotificationService",
-            "serviceEndpoint": "http://127.0.0.1:61749"
+            "serviceEndpoint": "https://127.0.0.1:61749"
         },
         {
             "id": "#bsky_appview",
             "type": "BskyAppView",
-            "serviceEndpoint": "http://127.0.0.1:61749"
+            "serviceEndpoint": "https://127.0.0.1:61749"
         }
     ]
 }
